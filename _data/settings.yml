@@ -6,10 +6,10 @@ description: We built a robot
 email: l.nguyen.paul@gmail.com, change this
 
 menu:
-- {name: 'Projects', url: ''}
+- {name: 'The Bot', url: ''}
 - {name: 'Blog', url: 'blog.html'}
-- {name: 'About', url: 'about.html'}
-- {name: 'Contact', url: 'contact.html'}
+#- {name: 'About', url: 'about.html'}
+#- {name: 'Contact Us', url: 'contact.html'}
 
 #-------------------------------
 # SEO Section
@@ -57,11 +57,11 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'The Competition', folder: 'competition', file: 'projects/1competition.html'}
-- {name: 'Electrical', folder: 'elec', file: 'projects/2elec.html'}
-- {name: 'Mechanical', folder: 'mech', file: 'projects/3mech.html'}
-- {name: 'Software', folder: 'software', file: 'projects/4software.html'}
-- {name: 'Fun', folder: 'fun', file: 'projects/5fun.html'}
+- {name: 'The Competition', folder: 'competition', file: 'projects/competition.html'}
+- {name: 'Electrical', folder: 'elec', file: 'projects/elec.html'}
+- {name: 'Mechanical', folder: 'mech', file: 'projects/mech.html'}
+- {name: 'Software', folder: 'software', file: 'projects/software.html'}
+- {name: 'Fun', folder: 'fun', file: 'projects/fun.html'}
 
 #-------------------------------
 # Contact Section
