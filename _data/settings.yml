@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Portfolio Jekyll Theme
-description: Powered by Jekyll and GitHub Pages
-email: l.nguyen.paul@gmail.com
+title: Magic School Blog
+description: We built a robot
+email: l.nguyen.paul@gmail.com, change this
 
 menu:
 - {name: 'Projects', url: ''}
@@ -17,7 +17,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  description: 'Website for robot entry in 2017 UBC Engineering Physics Robot Competition powered by Jekyll and GitHub Pages'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
@@ -35,24 +35,33 @@ seo:
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
+  # Magic School Blog
 
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+  The website for The Magic School Bot, our entry in the Annual UBC Engineering Physics Summer Robotics Competition.
 
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  Amar Shah: [Github](#) [Linkedin](#) [Website](#)
+
+
+  Cindy Zhang: [Github](#) [Linkedin](#) [Website](#)
+
+
+  Jason Peng: [Github](#) [Linkedin](#) [Website](#)
+
+
+  Lise Savard: [Github](#) [Linkedin](#) [Website](#)
 
 #-------------------------------
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'The Competition', folder: 'competition', file: 'projects/1competition.html'}
+- {name: 'Electrical', folder: 'elec', file: 'projects/2elec.html'}
+- {name: 'Mechanical', folder: 'mech', file: 'projects/3mech.html'}
+- {name: 'Software', folder: 'software', file: 'projects/4software.html'}
+- {name: 'Fun', folder: 'fun', file: 'projects/5fun.html'}
 
 #-------------------------------
 # Contact Section
@@ -60,7 +69,7 @@ projects:
 social:
 - {icon: 'twitter', link: '#'}
 - {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
+- {icon: 'github', link: 'https://github.com/WalkervilleElementary'}
 - {icon: 'linkedin', link: '#'}
 - {icon: 'envelope', link: 'mailto:#'}
 
