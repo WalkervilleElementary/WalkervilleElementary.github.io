@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Electrical'
+title: 'Electrical Components'
 ---
 
 elec stuff goes here

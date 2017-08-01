@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Magic School Blog
+title: The Magic School Blog
 description: We built a robot
 email: l.nguyen.paul@gmail.com, change this
 
 menu:
 - {name: 'The Bot', url: ''}
-- {name: 'Blog', url: 'blog.html'}
+- {name: 'Extras', url: 'blog.html'}
 #- {name: 'About', url: 'about.html'}
 #- {name: 'Contact Us', url: 'contact.html'}
 
@@ -37,7 +37,7 @@ seo:
 about: >
   # Magic School Blog
 
-  The website for The Magic School Bot, our entry in the Annual UBC Engineering Physics Summer Robotics Competition.
+  #The website for The Magic School Bot, our entry in the Annual UBC Engineering Physics Summer Robotics Competition.
 
 contact: >
   # Contact
@@ -62,6 +62,7 @@ projects:
 - {name: 'Mechanical', folder: 'mech', file: 'projects/mech.html'}
 - {name: 'Software', folder: 'software', file: 'projects/software.html'}
 - {name: 'Fun', folder: 'fun', file: 'projects/fun.html'}
+- {name: 'Walkerville Elementary', folder: 'team', file: 'projects/team.html'}
 
 #-------------------------------
 # Contact Section
