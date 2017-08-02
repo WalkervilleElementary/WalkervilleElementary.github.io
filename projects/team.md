@@ -9,31 +9,56 @@ Note to self: learn how to scale images
 
 #### The Team
 
-[pic]
+##### Amar Shah
 
-Amar Shah [insert bio here]
-
-[Github](#) [Linkedin](#) [Website](#)
-
-[pic]
-
-Cindy Zhang [insert bio here]
-
-[Github](#) [Linkedin](#) [Website](#)
-
-|![when your basket doubles as a hat]({{ site.url }}/assets/img/projects/team/jasonhat.jpg)|
+|![videopic]({{ site.url }}/assets/img/projects/team/amar.jpg)|
 |:--:|
-|*When your basket doubles as a hat*|
+|*Send me a better pic :)*|
 
+<br>
 
-Jason Peng [insert bio here]
-
-[Github](#) [Linkedin](#) [Website](#)
-
-[pic]
-
-Lise Savard [insert bio here]
+[insert bio here]
 
 [Github](#) [Linkedin](#) [Website](#)
+<br>
+
+##### Cindy Zhang
+
+|![videopic]({{ site.url }}/assets/img/projects/team/cindy.jpg)|
+|:--:|
+|*Send me a better pic :)*|
+
+<br>
+
+[insert bio here]
+
+[Github](#) [Linkedin](#) [Website](#)
+<br>
+
+##### Jason Peng
+
+|![videopic]({{ site.url }}/assets/img/projects/team/jason.jpg)|
+|:--:|
+|*Send me a better pic :)*|
+
+<br>
+
+[insert bio here]
+
+[Github](#) [Linkedin](#) [Website](#)
+<br>
+
+##### Lise Savard
+
+|![videopic]({{ site.url }}/assets/img/projects/team/lise.jpg)|
+|:--:|
+|*Send me a better pic :)*|
+
+<br>
+
+[insert bio here]
+
+[Github](#) [Linkedin](#) [Website](#)
+<br>
 
 [group pic]

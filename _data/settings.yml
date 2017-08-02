@@ -3,7 +3,7 @@
 
 title: The Magic School Blog
 description: We built a robot
-email: l.nguyen.paul@gmail.com, change this
+#email: l.nguyen.paul@gmail.com, change this
 
 menu:
 - {name: 'The Bot', url: ''}
@@ -58,11 +58,11 @@ contact: >
 
 projects:
 - {name: 'The Competition', folder: 'competition', file: 'projects/competition.html'}
+- {name: 'Walkerville Elementary', folder: 'team', file: 'projects/team.html'}
 - {name: 'Electrical', folder: 'elec', file: 'projects/elec.html'}
 - {name: 'Mechanical', folder: 'mech', file: 'projects/mech.html'}
 - {name: 'Software', folder: 'software', file: 'projects/software.html'}
 - {name: 'Fun', folder: 'fun', file: 'projects/fun.html'}
-- {name: 'Walkerville Elementary', folder: 'team', file: 'projects/team.html'}
 
 #-------------------------------
 # Contact Section

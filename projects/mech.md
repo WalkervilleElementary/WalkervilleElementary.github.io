@@ -16,7 +16,7 @@ While designing our robot, we wanted the mechanical parts to be simple as possib
 
 [pic of chassis in onshape]
 
-To build our chassis, we designed it using [onshape](https://www.onshape.com/), cut the individual pieces on the laser cutter, and assembled it, and glued it together. [Our final design had the electronic circuitry mounted inside the chassis base, while the TINAH board and batteries were rear mounted for easy accessibility. The basket, zipline mechanism, and claws were mounted on top.]
+To build our chassis, we designed it using [onshape](https://www.onshape.com/), cut the individual pieces on the laser cutter, and [assembled](https://www.youtube.com/watch?v=fzjaIU7a2kY) it. [Our final design had the electronic circuitry mounted inside the chassis base, while the TINAH board and batteries were rear mounted for easy accessibility. The basket, zipline mechanism, and claws were mounted on top.]
 During the 5 weeks of build time, we went through many iterations of the chassis as we made improvements to the design.
 
 [pic of all our different chassis with numbers]    
