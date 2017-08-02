@@ -68,10 +68,10 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
+#- {icon: 'twitter', link: '#'}
+#- {icon: 'instagram', link: '#'}
 - {icon: 'github', link: 'https://github.com/WalkervilleElementary'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+#- {icon: 'linkedin', link: '#'}
+#- {icon: 'envelope', link: 'mailto:#'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
