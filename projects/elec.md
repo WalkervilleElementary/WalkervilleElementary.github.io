@@ -8,4 +8,4 @@ elec stuff goes here
 - pics
 
 
-{% include image.html url="http://www.gratisography.com" image="projects/elec/stretch.jpg" %}
+<!--{% include image.html url="http://www.gratisography.com" image="projects/elec/stretch.jpg" %}-->
