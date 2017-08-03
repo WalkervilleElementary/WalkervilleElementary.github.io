@@ -56,6 +56,7 @@ contact: >
 
 projects:
 - {name: 'The Competition', folder: 'competition', file: 'competition.html'}
+- {name: 'Walkerville Elementary', folder: 'team', file: 'team.html'}
 - {name: 'Mechanical', folder: 'mech', file: 'mechanical.html'}
 - {name: 'Electrical', folder: 'elec', file: 'electrical.html'}
 - {name: 'Software', folder: 'software', file: 'software.html'}
