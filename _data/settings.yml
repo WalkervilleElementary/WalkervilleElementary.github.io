@@ -6,10 +6,8 @@ description: We built a robot
 #email: l.nguyen.paul@gmail.com, change this
 
 menu:
-- {name: 'The Bot', url: ''}
-- {name: 'Extras', url: 'blog.html'}
-#- {name: 'About', url: 'about.html'}
-#- {name: 'Contact Us', url: 'contact.html'}
+- {name: 'Blog', url: 'blog.html'}
+- {name: 'About', url: 'about.html'}
 
 #-------------------------------
 # SEO Section
@@ -17,7 +15,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Website for robot entry in 2017 UBC Engineering Physics Robot Competition powered by Jekyll and GitHub Pages'
+  description: 'The Magic School Bot, competitor in the 2017 UBC Engineering Physics robot competition!'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
@@ -57,21 +55,15 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'The Competition', folder: 'competition', file: 'projects/competition.html'}
-- {name: 'Walkerville Elementary', folder: 'team', file: 'projects/team.html'}
-- {name: 'Electrical', folder: 'elec', file: 'projects/elec.html'}
-- {name: 'Mechanical', folder: 'mech', file: 'projects/mech.html'}
-- {name: 'Software', folder: 'software', file: 'projects/software.html'}
-- {name: 'Fun', folder: 'fun', file: 'projects/fun.html'}
+- {name: 'The Competition', folder: 'competition', file: 'competition.html'}
+- {name: 'Mechanical', folder: 'mech', file: 'mechanical.html'}
+- {name: 'Electrical', folder: 'elec', file: 'electrical.html'}
+- {name: 'Software', folder: 'software', file: 'software.html'}
+- {name: 'Fun', folder: 'fun', file: 'fun.html'}
 
 #-------------------------------
-# Contact Section
 
-social:
-#- {icon: 'twitter', link: '#'}
-#- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: 'https://github.com/WalkervilleElementary'}
-#- {icon: 'linkedin', link: '#'}
-#- {icon: 'envelope', link: 'mailto:#'}
+footer: "©2017 UBC Engineering Physics Project Lab"
+
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
