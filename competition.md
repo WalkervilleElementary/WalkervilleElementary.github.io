@@ -11,8 +11,11 @@ This year, the theme is Mission Impossible Bots, and our task was to build self-
 
 To tackle this challenge, we dubbed ourselves "Walkerville Elementary" and got started on the Magic School Bot right away. Though the magic school bot might have started life as a cardboard prototype, by the end of the 5 weeks of build time it proved to a robot we could all be proud of.
 
-[pics of cardboard vs final]
+[pic of robot on testing surface]
 
-[transition into results]
+[transition into results if good]
 
 Finally, we'd like to thank the instructors (Andre, Jon, Bernhard) as well as the TAs (Connor S, Connor H, and Reily)
+
+<br>
+<div style="text-align: right"> <font size="+2"> <a href="https://walkervilleelementary.github.io/team.html">The Team ==></a></font> </div>

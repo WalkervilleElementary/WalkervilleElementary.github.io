@@ -15,6 +15,9 @@ While we put lots of work into the robot, it wasn't all work and no play! Here a
 <br>
 <br>
 
-|![videopic]({{ site.url }}/assets/img/projects/fun/jasonhat.jpg)|
+|<img src="{{ site.url }}/assets/img/projects/fun/jasonhat.jpg" width="300" height="500" />|
 |:--:|
 |*Testing out all the qualities of the basket prototype, even how fashionable it is*|
+
+<br>
+<div style="text-align: right"> <font size="+2"><a href="https://walkervilleelementary.github.io/blog.html">Blog ==></a></font> </div>

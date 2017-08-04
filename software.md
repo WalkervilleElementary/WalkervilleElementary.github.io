@@ -19,3 +19,6 @@ This software structure was beneficial because it allowed us to write, test, and
 ### Digital IR Filtering
 
 [something something]
+
+<br>
+<div style="text-align: right"> <font size="+2"><a href="https://walkervilleelementary.github.io/fun.html">Fun ==></a> </font></div>

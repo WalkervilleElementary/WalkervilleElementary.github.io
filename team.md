@@ -62,3 +62,6 @@ Note to self: learn how to scale images
 <br>
 
 [group pic]
+
+<br>
+<div style="text-align: right"> <font size="+2"><a href="https://walkervilleelementary.github.io/mechanical.html">Mechanical ==></a></font> </div>

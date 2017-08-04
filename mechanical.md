@@ -14,16 +14,17 @@ While designing our robot, we wanted the mechanical parts to be simple as possib
 
 ### Chassis
 
-[pic of chassis in onshape]
+<center><img src="{{ site.url }}/assets/img/projects/mech/chassis-onshape.jpg" width="400" height="400" /></center>
 
 To build our chassis, we designed it using [onshape](https://www.onshape.com/), cut the individual pieces on the laser cutter, and [assembled](https://www.youtube.com/watch?v=fzjaIU7a2kY) it. [Our final design had the electronic circuitry mounted inside the chassis base, while the TINAH board and batteries were rear mounted for easy accessibility. The basket, zipline mechanism, and claws were mounted on top.]
 During the 5 weeks of build time, we went through many iterations of the chassis as we made improvements to the design.
 
-[pic of all our different chassis with numbers]    
+<center><img src="{{ site.url }}/assets/img/projects/mech/chassis-progression.JPG" width="400" height="600" />  </center>
 
 ### Claw
 
-[pic of claw]
+<center><img src="{{ site.url }}/assets/img/projects/mech/claw-onshape.png" width="400" height="350" /></center>
+
 
 Similar to the chassis, the claw was designed in onshape, cut using the laser cutter, and assembled. Unlike the chassis which is glued, the claw is held in place by screws. To compete efficiently on both competition surfaces, we opted to have a claw on both the left and right sides of the robot. As such, the claws are small and fold inward when not in use the robot can get through the 12 inch by 12 inch gate at the beginning of the course.
 
@@ -39,5 +40,9 @@ Again, the drive train was designed in onshape, cut using the laser cutter, and 
 ### Zipline Mechanism
 
 [We opted to only send a basket with agents down the zipline, since that was less weight that the motor had to lift.] Our lifting mechanism consisted of a 2-hinged arm driven by a motor at the base. The upper segment was constrained to be upright at all times and had a platform which the basket rested on.  
+
+<br>
+<div style="text-align: right"><font size="+2"> <a href="https://walkervilleelementary.github.io/electrical.html">Electrical ==></a><font> </div>
+
 
 <!--{% include image.html url="http://tvtropes.org" image="projects/mech/clothes.jpg" %}-->
