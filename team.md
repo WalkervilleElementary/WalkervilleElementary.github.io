@@ -5,63 +5,38 @@ title: 'Walkerville Elementary'
 
 Composed of 4 second-year Engineering Physics students at UBC, Walkerville Elementary is a team united by a common goal: creating the best robot for the competition! Along the way, they've also meandered through physics labs, dealt with the struggles of unintentionally ungrounded wires, and put their culinary skills to the test.
 
-Note to self: learn how to scale images
-
+<!--check fun for image scaling example-->
 #### The Team
 
-##### Amar Shah
-
-|![videopic]({{ site.url }}/assets/img/projects/team/amar.jpg)|
+|![pic]({{ site.url }}/assets/img/projects/team/thumb.jpg)|
 |:--:|
-|*Send me a better pic :)*|
+|*From left to right: Amar Shah, Lise Savard, Cindy Zhang, Jason Peng*|
 
 <br>
 
-[insert bio here]
+Amar Shah [Github](#) [Linkedin](#) [Website](#)
 
-[Github](#) [Linkedin](#) [Website](#)
-<br>
-
-##### Cindy Zhang
-
-|![videopic]({{ site.url }}/assets/img/projects/team/cindy.jpg)|
-|:--:|
-|*Send me a better pic :)*|
+Contributions: Digital IR filtering, Zipline Mechanism, CAD, Software
 
 <br>
 
-[insert bio here]
+Lise Savard [Github](#) [Linkedin](#) [Website](#)
 
-[Github](#) [Linkedin](#) [Website](#)
-<br>
-
-##### Jason Peng
-
-|![videopic]({{ site.url }}/assets/img/projects/team/jason.jpg)|
-|:--:|
-|*Send me a better pic :)*|
+Contributions: Electrical Circuitry, Software
 
 <br>
 
-[insert bio here]
+Cindy Zhang [Github](#) [Linkedin](#) [Website](#)
 
-[Github](#) [Linkedin](#) [Website](#)
-<br>
-
-##### Lise Savard
-
-|![videopic]({{ site.url }}/assets/img/projects/team/lise.jpg)|
-|:--:|
-|*Send me a better pic :)*|
+Contributions: Claws, CAD, software, website
 
 <br>
 
-[insert bio here]
+Jason Peng [Github](#) [Linkedin](#) [Website](#)
 
-[Github](#) [Linkedin](#) [Website](#)
-<br>
-
-[group pic]
+Contributions: Drive train, Software, CAD, 3D printing
 
 <br>
+
+
 <div style="text-align: right"> <font size="+2"><a href="https://walkervilleelementary.github.io/mechanical.html">Mechanical ==></a></font> </div>

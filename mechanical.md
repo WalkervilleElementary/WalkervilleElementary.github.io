@@ -32,8 +32,10 @@ Similar to the chassis, the claw was designed in onshape, cut using the laser cu
 
 ### Drive Train
 
-[pic of drive train]
-Again, the drive train was designed in onshape, cut using the laser cutter, and assembled. The robot is powered by Barber-Coleman motors geared at a [insert gear ratio here]. Additionally, we attached encoders to keep track of distances travelled. The encoders gave us a bit of trouble when they started breaking down after time trials, but since we had been keeping on a good timeline we were able to replace the encoders and fix the issues in a timely manner.
+<center><img src="{{ site.url }}/assets/img/projects/mech/drivetrain.jpg" width="400" height="300" /></center>
+
+<br>
+Again, the drive train was designed in onshape, cut using the laser cutter, and assembled. The robot is powered by Barber-Coleman motors geared at a ratio of 2:1. Additionally, we attached encoders to keep track of distances travelled. The encoders gave us a bit of trouble when they started breaking down after time trials, but since we had been keeping a good timeline we were able to replace the encoders and fix the issues in a timely manner.
 
 [pic of hallway testing?]
 
@@ -42,7 +44,7 @@ Again, the drive train was designed in onshape, cut using the laser cutter, and 
 [We opted to only send a basket with agents down the zipline, since that was less weight that the motor had to lift.] Our lifting mechanism consisted of a 2-hinged arm driven by a motor at the base. The upper segment was constrained to be upright at all times and had a platform which the basket rested on.  
 
 <br>
-<div style="text-align: right"><font size="+2"> <a href="https://walkervilleelementary.github.io/electrical.html">Electrical ==></a><font> </div>
+<div style="text-align: right"><font size="+2"><a href="https://walkervilleelementary.github.io/electrical.html">Electrical ==></a><font>
 
 
 <!--{% include image.html url="http://tvtropes.org" image="projects/mech/clothes.jpg" %}-->

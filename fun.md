@@ -20,4 +20,10 @@ While we put lots of work into the robot, it wasn't all work and no play! Here a
 |*Testing out all the qualities of the basket prototype, even how fashionable it is*|
 
 <br>
+
+|![fun team photo]({{ site.url }}/assets/img/projects/team/walkverille11.JPG)|
+|:--:|
+|*Lise showing off both her gainz and the robot*|
+
+<br>
 <div style="text-align: right"> <font size="+2"><a href="https://walkervilleelementary.github.io/blog.html">Blog ==></a></font> </div>
