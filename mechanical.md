@@ -2,11 +2,9 @@
 layout: post
 title: 'Mechanical Design'
 ---
-TODO: add pics
-
 Since we registered our team with the name "Walkerville Elementary", it seemed a forgone conclusion to make our robot magic school bus themed. Whether we succeeded in making it resemble a school bus is up to interpretation, but our robot was built using solid principles of mechanical design.
 
-[insert pic of decorated bot here]
+<center><img src="{{ site.url }}/assets/img/projects/mech/decorated.png" width = "300" height = "400" /></center>
 
 ### Overview
 
@@ -28,7 +26,6 @@ During the 5 weeks of build time, we went through many iterations of the chassis
 
 Similar to the chassis, the claw was designed in onshape, cut using the laser cutter, and assembled. Unlike the chassis which is glued, the claw is held in place by screws. To compete efficiently on both competition surfaces, we opted to have a claw on both the left and right sides of the robot. As such, the claws are small and fold inward when not in use the robot can get through the 12 inch by 12 inch gate at the beginning of the course.
 
-[pic of robot at the beginning, claws folded in]
 
 ### Drive Train
 
@@ -37,14 +34,16 @@ Similar to the chassis, the claw was designed in onshape, cut using the laser cu
 <br>
 Again, the drive train was designed in onshape, cut using the laser cutter, and assembled. The robot is powered by Barber-Coleman motors geared at a ratio of 2:1. Additionally, we attached encoders to keep track of distances travelled. The encoders gave us a bit of trouble when they started breaking down after time trials, but since we had been keeping a good timeline we were able to replace the encoders and fix the issues in a timely manner.
 
-[pic of hallway testing?]
 
 ### Zipline Mechanism
 
-[We opted to only send a basket with agents down the zipline, since that was less weight that the motor had to lift.] Our lifting mechanism consisted of a 2-hinged arm driven by a motor at the base. The upper segment was constrained to be upright at all times and had a platform which the basket rested on.  
+<center><img src="{{ site.url }}/assets/img/projects/mech/zipline.jpg" width="300" height="300" /></center>
 
 <br>
-<div style="text-align: right"><font size="+2"><a href="https://walkervilleelementary.github.io/electrical.html">Electrical ==></a><font>
+We opted to only send a basket with agents down the zipline, since that was less weight that the motor had to lift. Our lifting mechanism consisted of a 2-hinged arm driven by a motor at the base. The upper segment was constrained to be upright at all times and had a platform which the basket rested on.  
+
+<br>
+<div style="text-align: right"><font size="+2"><a href="{{ site.url }}/electrical.html">Electrical ></a><font>
 
 
 <!--{% include image.html url="http://tvtropes.org" image="projects/mech/clothes.jpg" %}-->

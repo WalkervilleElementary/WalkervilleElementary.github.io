@@ -26,4 +26,4 @@ While we put lots of work into the robot, it wasn't all work and no play! Here a
 |*Lise showing off both her gainz and the robot*|
 
 <br>
-<div style="text-align: right"> <font size="+2"><a href="https://walkervilleelementary.github.io/blog.html">Blog ==></a></font> </div>
+<div style="text-align: right"> <font size="+2"><a href="{{ site.url }}/blog.html">Blog ></a></font> </div>

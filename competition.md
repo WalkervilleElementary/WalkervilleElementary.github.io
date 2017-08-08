@@ -18,4 +18,4 @@ To tackle this challenge, we dubbed ourselves "Walkerville Elementary" and got s
 Finally, we'd like to thank the instructors (Andre, Jon, Bernhard) as well as the TAs (Connor S, Connor H, and Reily)
 
 <br>
-<div style="text-align: right"> <font size="+2"> <a href="https://walkervilleelementary.github.io/team.html">The Team ==></a></font> </div>
+<div style="text-align: right"> <font size="+2"> <a href="{{ site.url }}/team.html">Team ></a></font> </div>

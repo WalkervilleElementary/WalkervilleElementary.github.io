@@ -18,7 +18,7 @@ This software structure was beneficial because it allowed us to write, test, and
 
 ### Digital IR Filtering
 
-[something something]
+[something something amar please talk about how you did this] This allowed us to remove the IR detector circuit from the robot design.
 
 <br>
-<div style="text-align: right"> <font size="+2"><a href="https://walkervilleelementary.github.io/fun.html">Fun ==></a> </font></div>
+<div style="text-align: right"> <font size="+2"><a href="{{ site.url }}/fun.html">Fun ></a> </font></div>

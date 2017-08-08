@@ -39,4 +39,4 @@ Contributions: Drive train, Software, CAD, 3D printing
 <br>
 
 
-<div style="text-align: right"> <font size="+2"><a href="https://walkervilleelementary.github.io/mechanical.html">Mechanical ==></a></font> </div>
+<div style="text-align: right"> <font size="+2"><a href="{{ site.url }}/mechanical.html">Mechanical ></a></font> </div>
