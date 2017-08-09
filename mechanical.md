@@ -17,7 +17,10 @@ While designing our robot, we wanted the mechanical parts to be simple as possib
 To build our chassis, we designed it using [onshape](https://www.onshape.com/), cut the individual pieces on the laser cutter, and [assembled](https://www.youtube.com/watch?v=fzjaIU7a2kY) it. [Our final design had the electronic circuitry mounted inside the chassis base, while the TINAH board and batteries were rear mounted for easy accessibility. The basket, zipline mechanism, and claws were mounted on top.]
 During the 5 weeks of build time, we went through many iterations of the chassis as we made improvements to the design.
 
-<center><img src="{{ site.url }}/assets/img/projects/mech/chassis-progression.JPG" width="400" height="600" />  </center>
+<center><img src="{{ site.url }}/assets/img/projects/mech/chassis-progression.JPG" width="400" height="600" />  
+<br>
+<i>The evolution of our chassis</i>
+</center>
 
 ### Claw
 
@@ -37,7 +40,10 @@ Again, the drive train was designed in onshape, cut using the laser cutter, and 
 
 ### Zipline Mechanism
 
-<center><img src="{{ site.url }}/assets/img/projects/mech/zipline.jpg" width="300" height="300" /></center>
+<center><img src="{{ site.url }}/assets/img/projects/mech/zipline.jpg" width="300" height="300" />
+<br>
+<i>Agents making their escape</i>
+</center>
 
 <br>
 We opted to only send a basket with agents down the zipline, since that was less weight that the motor had to lift. Our lifting mechanism consisted of a 2-hinged arm driven by a motor at the base. The upper segment was constrained to be upright at all times and had a platform which the basket rested on.  

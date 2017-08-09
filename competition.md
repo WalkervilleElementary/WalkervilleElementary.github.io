@@ -11,7 +11,9 @@ This year, the theme is Mission Impossible Bots, and our task was to build self-
 
 To tackle this challenge, we dubbed ourselves "Walkerville Elementary" and got started on the Magic School Bot right away. Though the magic school bot might have started life as a cardboard prototype, by the end of the 5 weeks of build time it proved to a robot we could all be proud of.
 
-[pic of robot on testing surface]
+ <center><img src="{{ site.url }}/assets/img/projects/competition/robot_surface.jpg" width="230" height="300" /></center>
+
+<center><i>Amar and the magic school bot at the start of the course</i></center>
 
 [transition into results if good]
 
