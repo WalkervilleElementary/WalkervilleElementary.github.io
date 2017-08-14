@@ -14,6 +14,8 @@ Composed of 4 second-year Engineering Physics students at UBC, Walkerville Eleme
 
 <br>
 
+[bio and personal links here if wanted]
+
 <!--Amar Shah [Github](#) [Linkedin](#) [Website](#)
 
 Contributions: Digital IR filtering, Zipline Mechanism, CAD, Software
