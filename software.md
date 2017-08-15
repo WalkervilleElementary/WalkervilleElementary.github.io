@@ -18,8 +18,9 @@ This software structure allows us to have concurrency on a single process comput
 
 ### Digital IR Filtering
 
-Instead of filtering IR signals using hardware, we process the signal digitially. We sample the signal for a period of time and checks if the frequency of the waveform. This allowed us to remove the IR detector circuit from the robot design.
+Instead of filtering IR signals using hardware, we process the signal digitally. We sample the signal for a period of time and checks if the frequency of the waveform. This allowed us to remove the IR detector circuit from the robot design.
 
 <br>
-<div style="text-align: left"> <font size="+2"><a href="{{ site.url }}/electrical.html">< Electrical</a> </font></div>
-<div style="text-align: right"> <font size="+2"><a href="{{ site.url }}/fun.html">Fun ></a> </font></div>
+
+<p style="text-align: left"> <font size="+2"><a href="{{ site.url }}/electrical.html">< Electrical</a> </font></p>
+<span style="float: right"> <font size="+2"><a href="{{ site.url }}/fun.html">Fun ></a> </font></span>
