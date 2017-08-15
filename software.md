@@ -3,7 +3,7 @@ layout: post
 title: 'Software'
 ---
 
-While the electrical and mechanical components of the Magic School Bot are important, software is also needed to tell the robot what to do. In addition to the expected control software, we also had software to read and digitally filter IR signals instead of building an electronic IR filtering circuit. Software management was done on Github to let us work on issues concurrently.
+While the electrical and mechanical components of the Magic School Bot are important, software is also needed to tell the robot what to do. In addition to the expected control software, we also had software to do signal processing on IR signals. Software management was done on [Github](https://github.com/walkervilleElementary/robot) to let us work on issues concurrently.
 
 ### Decision Making
 
@@ -22,5 +22,20 @@ Instead of filtering IR signals using hardware, we process the signal digitally.
 
 <br>
 
-<p style="text-align: left"> <font size="+2"><a href="{{ site.url }}/electrical.html">< Electrical</a> </font></p>
-<span style="float: right"> <font size="+2"><a href="{{ site.url }}/fun.html">Fun ></a> </font></span>
+<div class="division">
+    <div class="left" style="text-align: left"> <font size="+2"><a href="{{ site.url }}/electrical.html">< Electrical</a> </font></div>
+    <div class="right" style="text-align: right"> <font size="+2"><a href="{{ site.url }}/fun.html">Fun ></a> </font></div>
+</div>
+
+<style type="text/css">
+    .division {
+    }
+    .left {
+        width = 50%;
+        float: left;
+    }
+    .right {
+        width: 50%
+        float: right;
+    }
+</style>
