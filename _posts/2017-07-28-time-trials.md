@@ -7,6 +7,27 @@ Times trials are over and now we have footage of our robot in action!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZcJYCK2JenY" frameborder="0" allowfullscreen></iframe>
 
+<br>
+
+<div class="division">
+  <div class="left" style="text-align: left"> <font size="+2"><a href="{{ site.url }}/fun.html">< Fun</a> </font></div>
+    <div class="right" style="text-align: right"> <font size="+2"><a href="{{ site.url }}/looking-back.html">Walkerville on the Magic School Bot ></a></font></div>
+</div>
+
+<style type="text/css">
+    .division {
+    }
+    .left {
+        width = 50%;
+        float: left;
+    }
+    .right {
+        width: 50%
+        float: right;
+    }
+</style>
+
+
 <!--This is a portfolio Jekyll theme built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P).
 
 #### Quick-Start Guide

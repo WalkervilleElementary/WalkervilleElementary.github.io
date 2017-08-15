@@ -26,4 +26,21 @@ Additionally, the debounced output was filtered through an edge detection circui
 Our robot used four reflectance sensors (QRD1114) to follow tape and detect intersections, as well as two IR sensors (QSD124) to detect infrared light intensity. To detect infrared beacon pulse frequency, we used software filtering. This greatly simplified our electrical sensing circuit design.
 
 <br>
-<div style="text-align: right"><font size="+2"> <a href="{{ site.url }}/software.html">Software ></a> </font></div>
+
+<div class="division">
+    <div class="left" style="text-align: left"> <font size="+2"><a href="{{ site.url }}/mechanical.html">< Mechanical</a> </font></div>
+    <div class="right" style="text-align: right"> <font size="+2"><a href="{{ site.url }}/software.html">Software ></a></font></div>
+</div>
+
+<style type="text/css">
+    .division {
+    }
+    .left {
+        width = 50%;
+        float: left;
+    }
+    .right {
+        width: 50%
+        float: right;
+    }
+</style>

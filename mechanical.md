@@ -14,7 +14,7 @@ While designing our robot, we wanted the mechanical parts to be simple as possib
 
 <center><img src="{{ site.url }}/assets/img/projects/mech/chassis-onshape.jpg" width="400" height="400" /></center>
 
-To build our chassis, we designed it using [onshape](https://www.onshape.com/), cut the individual pieces on the laser cutter, and [assembled](https://www.youtube.com/watch?v=fzjaIU7a2kY) it. [Our final design had the electronic circuitry mounted inside the chassis base, while the TINAH board and batteries were rear mounted for easy accessibility. The basket, zipline mechanism, and claws were mounted on top.]
+To build our chassis, we designed it using [onshape](https://www.onshape.com/), cut the individual pieces on the laser cutter, and [assembled](https://www.youtube.com/watch?v=fzjaIU7a2kY) it. Our final design had the electronic circuitry mounted inside the chassis base, while the TINAH board and batteries were rear mounted for easy accessibility. The basket, zipline mechanism, and claws were mounted on top.
 During the 5 weeks of build time, we went through many iterations of the chassis as we made improvements to the design.
 
 <center><img src="{{ site.url }}/assets/img/projects/mech/chassis-progression.JPG" width="400" height="600" />  
@@ -49,7 +49,21 @@ Again, the drive train was designed in onshape, cut using the laser cutter, and 
 We opted to only send a basket with agents down the zipline, since that was less weight that the motor had to lift. Our lifting mechanism consisted of a 2-hinged arm driven by a motor at the base. The upper segment was constrained to be upright at all times and had a platform which the basket rested on.  
 
 <br>
-<div style="text-align: right"><font size="+2"><a href="{{ site.url }}/electrical.html">Electrical ></a><font>
 
+<div class="division">
+    <div class="left" style="text-align: left"> <font size="+2"><a href="{{ site.url }}/team.html">< Team</a> </font></div>
+    <div class="right" style="text-align: right"> <font size="+2"><a href="{{ site.url }}/electrical.html">Electrical ></a></font></div>
+</div>
 
-<!--{% include image.html url="http://tvtropes.org" image="projects/mech/clothes.jpg" %}-->
+<style type="text/css">
+    .division {
+    }
+    .left {
+        width = 50%;
+        float: left;
+    }
+    .right {
+        width: 50%
+        float: right;
+    }
+</style>

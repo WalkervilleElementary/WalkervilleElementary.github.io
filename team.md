@@ -14,9 +14,9 @@ Composed of 4 second-year Engineering Physics students at UBC, Walkerville Eleme
 
 <br>
 
-[bio and personal links here if wanted]
+<!--[bio and personal links here if wanted]
 
-<!--Amar Shah [Github](#) [Linkedin](#) [Website](#)
+Amar Shah [Github](#) [Linkedin](#) [Website](#)
 
 Contributions: Digital IR filtering, Zipline Mechanism, CAD, Software
 
@@ -41,4 +41,21 @@ Contributions: Drive train, Software, CAD, 3D printing
 <br>
 -->
 
-<div style="text-align: right"> <font size="+2"><a href="{{ site.url }}/mechanical.html">Mechanical ></a></font> </div>
+
+<div class="division">
+    <div class="left" style="text-align: left"> <font size="+2"><a href="{{ site.url }}/competition.html">< Competition</a> </font></div>
+    <div class="right" style="text-align: right"> <font size="+2"><a href="{{ site.url }}/mechanical.html">Mechanical ></a></font></div>
+</div>
+
+<style type="text/css">
+    .division {
+    }
+    .left {
+        width = 50%;
+        float: left;
+    }
+    .right {
+        width: 50%
+        float: right;
+    }
+</style>
