@@ -21,5 +21,21 @@ This software structure allows us to have concurrency on a single process comput
 Instead of filtering IR signals using hardware, we process the signal digitially. We sample the signal for a period of time and checks if the frequency of the waveform. This allowed us to remove the IR detector circuit from the robot design.
 
 <br>
-<div style="text-align: left"> <font size="+2"><a href="{{ site.url }}/electrical.html">< Electrical</a> </font></div>
-<div style="text-align: right"> <font size="+2"><a href="{{ site.url }}/fun.html">Fun ></a> </font></div>
+
+<div class="division">
+    <div class="left" style="text-align: left"> <font size="+2"><a href="{{ site.url }}/electrical.html">< Electrical</a> </font></div>
+    <div class="right" style="text-align: right"> <font size="+2"><a href="{{ site.url }}/fun.html">Fun ></a> </font></div>
+</div>
+
+<style type="text/css">
+    .division {
+    }
+    .left {
+        width = 50%;
+        float: left;
+    }
+    .right {
+        width: 50%
+        float: right;
+    }
+</style>
