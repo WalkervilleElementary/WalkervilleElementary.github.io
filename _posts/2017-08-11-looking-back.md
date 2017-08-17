@@ -5,7 +5,7 @@ title: "Walkerville on the Magic School Bot"
 
 Now that we're older, wiser, and hopefully less stressed, here's a video compilation of our Robot Summer <sup>TM</sup> experience.
 
-[insert video here]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PCNbXAErK9I" frameborder="0" allowfullscreen></iframe>
 
 And if you're a second-year fizzer watching this while going through your own Robot Summer <sup>TM</sup> experience, good luck!
 
